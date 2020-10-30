@@ -10,7 +10,7 @@
         <img src="arcwarden.jpg"
         <br>
         <a href="https://www.dotabuff.com/">this is a Link</a>
-        <h2>เรื่องตลกที่ผมก็อปมาจากเน็ต</h2>
+        <h2>63070114</h2>
         <ul>
             <li>ครู : นร.จะเลือกอะไร ระหว่างเงิน กับสมอง</li>
             <li>นร. : หนูเลือกเงินค่ะ</li>
